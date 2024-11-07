@@ -113,7 +113,7 @@
     +  CSS 的5种 position 定位 【重点】
     + 了解 CSS 常用的布局方式
     +  CSS 的伪类
-+ JavaScript【可以和 C 语言去类比，任何语言学习都离开这些，所以不要害怕】
++ JavaScript（可以和 C 语言去类比，任何语言学习都离开这些，所以不要害怕）
     + 学习 JavaScript 基本语法
     + 了解 JavaScript 数据类型
         + 字符串（String）
