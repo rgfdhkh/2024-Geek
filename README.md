@@ -1,4 +1,4 @@
-# 2024秋季Geek组-考核任务表 【期中考核前】
+# 2024秋季Geek组 - 考核任务表 【期中考核前】
 
 > 请注意考核时间，大一大二同学 `ddl` 有所不同！！！
 
@@ -20,7 +20,7 @@
 13. Li 推荐的两篇阅读 [萌新指南](https://www.liaoxuefeng.com/discuss/969955749132672/1194489731350240?page=1)与 [如何优雅地学习廖雪峰的Python](https://www.zhihu.com/question/51536745)
 14. 学习路线推荐阅读：https://roadmap.sh/
 
-## 1️⃣阶段一 【Geek 的出厂设置- `Github` 入门与 Markdown 学习】
+## 1️⃣阶段一 【Geek 的出厂设置 - `Github` 入门与 Markdown 学习】
 
 ### 阶段时长：`1.5` 天
 
@@ -62,7 +62,7 @@
 6. Geek 的自由并不体现在笔记的 ”乱七八糟“ 风格上，希望大家可以思考 markdown 中每个语法的应用场景，给自己的技术文档写作风格设定一套适合自己习惯的规范
    > 后面可以每年不断增添 or 修改，但是一定要有，且自己要思考 xxx 风格为什么这么设计
 
-## 2️⃣阶段二 【Geek 的出厂设置- `GitHub` 进阶与 **Git 学习**】
+## 2️⃣阶段二 【Geek 的出厂设置 - `GitHub` 进阶与 **Git 学习**】
 
 ### **阶段时长：`2` 天**
 
@@ -95,7 +95,7 @@
 4. 使用命令行以后，避免过度依赖图形化操作
 5. [git命令逻辑混乱？点这里把你理清](https://my-note-drawing-bed-1322822796.cos.ap-shanghai.myqcloud.com/picture/202405192337199.png)
 
-## 3️⃣阶段三 【 Web 相关领域的基础- HTML / CSS / JavaScript】
+## 3️⃣阶段三 【 Web 相关领域的基础 - HTML / CSS / JavaScript】
 
 ### 阶段时长：`4` 天
 
