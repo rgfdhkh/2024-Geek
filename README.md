@@ -26,7 +26,7 @@
 
 ### 🛒学习内容：
 
-1. 初步了解 `Github`(熟悉界面与特殊词汇涵义)
+1. 初步了解`Github`(熟悉界面与特殊词汇涵义)
 
 2. 学习使用 Markdown
 
@@ -47,7 +47,7 @@
 3. 产出对应的 **Markdown** 学习笔记，并上传到 `Github` 的仓库中
 4. 产出对应的 `Github` 入门学习笔记，并上传到 `Github` 的仓库中
     + 对基础界面进行熟悉
-    + 对 `Repository`，`Star`，`Pull request`，`Fork` 等词语意义的了解
+    + 对 `Repository`，`Star`，`Pull request`，`Fork`等词语意义的了解
 5. **[23 级必做 / 24 级学有余力-进阶]** 了解 Markdown 的原理，并做好笔记
 6. **[23 级必做 / 24 级学有余力-进阶]** 探索 `typora` 的更多功能，写下你的发现
 
@@ -72,7 +72,7 @@
 
 2. 进一步学习 `Github`的使用
 
-    + 学习如何与他人协同做项目【`Fork` 和 `Pull request`】
+    + 学习如何与他人协同做项目【`Fork`和`Pull request`】
 
 3. 学会使用 **Git Bash** 将本地项目推送到**远程**`Github`仓库
 
