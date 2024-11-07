@@ -82,7 +82,7 @@
 
 1. 在**你的本地仓库 (Tasks) ** 中添加 `hello.md` 文件并写入内容：Hello + 你的姓名（使用一级标题），将其推送指远程仓库 Tasks
 2. 在**你的本地仓库 (Tasks) ** 中产出  `Github` 进阶学习笔记
-3. 我们在当前仓库的 `sophomore_first_half_tasks` 分支下留有一个名为 `git-idea` 的文件夹, 你们可以将你们的 git 学习感想(记得带上自己的名字)放进来,并向我们提出 PR
+3. 我们在当前仓库的 `first_half_tasks` 分支下留有一个名为 `git-idea` 的文件夹, 你们可以将你们的 git 学习感想(记得带上自己的名字)放进来,并向我们提出 PR
 4. **[23级必做/24级学有余力-进阶]** 了解 Git 的版本回滚以及冲突的解决，并做好笔记
 
 ❗**注意：截止此时，你的 `Tasks` 仓库中将有阶段一、二的学习笔记以及 `README` 文件中记载的索引,这是每个人都必须有的**
@@ -173,7 +173,7 @@
 
 #### 📑任务内容
 
-1. 复刻 Geek 组旧版的招新网站 👉 [复刻网站的资料](https://github.com/ntgeek/2024-Geek/blob/sophomore_first_half_tasks/复刻招新网站要求点.zip)
+1. 复刻 Geek 组旧版的招新网站 👉 [复刻网站的资料](https://github.com/ntgeek/2024-Geek/blob/first_half_tasks/复刻招新网站要求点.zip)
 2. 把做好的网页挂载在 `Github Pages` 上，并将对应的网页链接记录在 `Tasks` 仓库  `README` 文档中
 3. **[23级必做/24级学有余力-进阶]** 在 PC 端页面适配良好的基础下尝试适配移动端的页面
 
