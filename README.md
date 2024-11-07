@@ -20,7 +20,7 @@
 13. Li 推荐的两篇阅读 [萌新指南](https://www.liaoxuefeng.com/discuss/969955749132672/1194489731350240?page=1)与 [如何优雅地学习廖雪峰的Python](https://www.zhihu.com/question/51536745)
 14. 学习路线推荐阅读：https://roadmap.sh/
 
-## 1️⃣阶段一 【Geek 的出厂设置 - `Github` 入门与 Markdown 学习】
+## 1️⃣阶段一 【Geek的出厂设置 - `Github` 入门与 Markdown 学习】
 
 ### 阶段时长：`1.5` 天
 
