@@ -95,7 +95,7 @@
 4. 使用命令行以后，避免过度依赖图形化操作
 5. [git命令逻辑混乱？点这里把你理清](https://my-note-drawing-bed-1322822796.cos.ap-shanghai.myqcloud.com/picture/202405192337199.png)
 
-## 3️⃣阶段三 【 Web 相关领域的基础 - HTML / CSS / JavaScript】
+## 3️⃣阶段三 【 Web 相关领域的基础 - HTML / CSS / JavaScript 】
 
 ### 阶段时长：`4` 天
 
